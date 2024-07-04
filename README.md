@@ -17,17 +17,17 @@ Instead of the boring == == markdown highlight, these are the HTML codes for you
 
 <span style="background-color: Bisque;color:black">Bisque</span> 
 
-<span style="background-color: Black;">Black</span> 
+<span style="background-color: Black;color:white">Black</span> 
 
 <span style="background-color: BlanchedAlmond;color:black">BlanchedAlmond</span> 
 
-<span style="background-color: Blue;">Blue</span> 
+<span style="background-color: Blue;color:white">Blue</span> 
 
-<span style="background-color: BlueViolet;">BlueViolet</span> 
+<span style="background-color: BlueViolet;color:white">BlueViolet</span> 
 
-<span style="background-color: Brown;">Brown</span> 
+<span style="background-color: Brown;color:white">Brown</span> 
 
-<span style="background-color: BurlyWood;">BurlyWood</span> 
+<span style="background-color: BurlyWood;color:white">BurlyWood</span> 
 
 <span style="background-color: CadetBlue;">CadetBlue</span> 
 
