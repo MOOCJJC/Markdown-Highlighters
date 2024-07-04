@@ -1,284 +1,446 @@
 # Markdown-Highlighters
-Instead of the boring == == markdown highlight, these are the HTML codes for you to copy/paste to make your markdown highlights colorful.
+Instead of the boring `==`  and `==` markdown highlight, these are the HTML codes for you to copy/paste to make your markdown highlights colorful.
 
-<span style="background-color: AliceBlue;color:black">AliceBlue</span>
+![aliceblue](color_images/aliceblue.png)
+`<span style="background-color: aliceblue; color: #000000;">aliceblue</span>`
 
-`<span style="background-color: AliceBlue;color:black">AliceBlue</span>`
+![antiquewhite](color_images/antiquewhite.png)
+`<span style="background-color: antiquewhite; color: #000000;">antiquewhite</span>`
 
-<span style="background-color: AntiqueWhite;color:black">AntiqueWhite</span> 
+![aqua](color_images/aqua.png)
+`<span style="background-color: aqua; color: #000000;">aqua</span>`
 
-<span style="background-color: Aqua;color:black">Aqua</span> 
+![aquamarine](color_images/aquamarine.png)
+`<span style="background-color: aquamarine; color: #000000;">aquamarine</span>`
 
-<span style="background-color: Aquamarine;color:black">Aquamarine</span> 
+![azure](color_images/azure.png)
+`<span style="background-color: azure; color: #000000;">azure</span>`
 
-<span style="background-color: Azure;color:black" class="light">Azure</span> 
+![beige](color_images/beige.png)
+`<span style="background-color: beige; color: #000000;">beige</span>`
 
-<span style="background-color: Beige;color:black" class="light">Beige</span> 
+![bisque](color_images/bisque.png)
+`<span style="background-color: bisque; color: #000000;">bisque</span>`
 
-<span style="background-color: Bisque;color:black">Bisque</span> 
+![black](color_images/black.png)
+`<span style="background-color: black; color: #FFFFFF;">black</span>`
 
-<span style="background-color: Black;color:white">Black</span> 
+![blanchedalmond](color_images/blanchedalmond.png)
+`<span style="background-color: blanchedalmond; color: #000000;">blanchedalmond</span>`
 
-<span style="background-color: BlanchedAlmond;color:black">BlanchedAlmond</span> 
+![blue](color_images/blue.png)
+`<span style="background-color: blue; color: #FFFFFF;">blue</span>`
 
-<span style="background-color: Blue;color:white">Blue</span> 
+![blueviolet](color_images/blueviolet.png)
+`<span style="background-color: blueviolet; color: #FFFFFF;">blueviolet</span>`
 
-<span style="background-color: BlueViolet;color:white">BlueViolet</span> 
+![brown](color_images/brown.png)
+`<span style="background-color: brown; color: #FFFFFF;">brown</span>`
 
-<span style="background-color: Brown;color:white">Brown</span> 
+![burlywood](color_images/burlywood.png)
+`<span style="background-color: burlywood; color: #000000;">burlywood</span>`
 
-<span style="background-color: BurlyWood;color:white">BurlyWood</span> 
+![cadetblue](color_images/cadetblue.png)
+`<span style="background-color: cadetblue; color: #000000;">cadetblue</span>`
 
-<span style="background-color: CadetBlue;">CadetBlue</span> 
+![chartreuse](color_images/chartreuse.png)
+`<span style="background-color: chartreuse; color: #000000;">chartreuse</span>`
 
-<span style="background-color: Chartreuse;color:black">Chartreuse</span>
+![chocolate](color_images/chocolate.png)
+`<span style="background-color: chocolate; color: #FFFFFF;">chocolate</span>`
 
-<span style="background-color: Chocolate;">Chocolate</span> 
+![coral](color_images/coral.png)
+`<span style="background-color: coral; color: #000000;">coral</span>`
 
-<span style="background-color: Coral;">Coral</span> 
+![cornflowerblue](color_images/cornflowerblue.png)
+`<span style="background-color: cornflowerblue; color: #000000;">cornflowerblue</span>`
 
-<span style="background-color: CornflowerBlue;">CornflowerBlue</span> 
+![cornsilk](color_images/cornsilk.png)
+`<span style="background-color: cornsilk; color: #000000;">cornsilk</span>`
 
-<span style="background-colorcolor:black: Cornsilk;" class="light">Cornsilk</span> 
+![crimson](color_images/crimson.png)
+`<span style="background-color: crimson; color: #FFFFFF;">crimson</span>`
 
-<span style="background-color: Crimson;">Crimson</span> 
+![cyan](color_images/cyan.png)
+`<span style="background-color: cyan; color: #000000;">cyan</span>`
 
-<span style="background-color: Cyan;color:black">Cyan</span> 
+![darkblue](color_images/darkblue.png)
+`<span style="background-color: darkblue; color: #FFFFFF;">darkblue</span>`
 
-<span style="background-color: DarkBlue;">DarkBlue</span> 
+![darkcyan](color_images/darkcyan.png)
+`<span style="background-color: darkcyan; color: #FFFFFF;">darkcyan</span>`
 
-<span style="background-color: DarkCyan;">DarkCyan</span> 
+![darkgoldenrod](color_images/darkgoldenrod.png)
+`<span style="background-color: darkgoldenrod; color: #000000;">darkgoldenrod</span>`
 
-<span style="background-color: DarkGoldenRod;">DarkGoldenRod</span> 
+![darkgray](color_images/darkgray.png)
+`<span style="background-color: darkgray; color: #000000;">darkgray</span>`
 
-<span style="background-color: DarkGray;">DarkGray</span> 
+![darkgreen](color_images/darkgreen.png)
+`<span style="background-color: darkgreen; color: #FFFFFF;">darkgreen</span>`
 
-<span style="background-color: DarkGreen;">DarkGreen</span> 
+![darkgrey](color_images/darkgrey.png)
+`<span style="background-color: darkgrey; color: #000000;">darkgrey</span>`
 
-<span style="background-color: DarkKhaki;">DarkKhaki</span> 
+![darkkhaki](color_images/darkkhaki.png)
+`<span style="background-color: darkkhaki; color: #000000;">darkkhaki</span>`
 
-<span style="background-color: DarkMagenta;">DarkMagenta</span> 
+![darkmagenta](color_images/darkmagenta.png)
+`<span style="background-color: darkmagenta; color: #FFFFFF;">darkmagenta</span>`
 
-<span style="background-color: DarkOliveGreen;">DarkOliveGreen</span> 
+![darkolivegreen](color_images/darkolivegreen.png)
+`<span style="background-color: darkolivegreen; color: #FFFFFF;">darkolivegreen</span>`
 
-<span style="background-color: DarkOrange;">DarkOrange</span> 
+![darkorange](color_images/darkorange.png)
+`<span style="background-color: darkorange; color: #000000;">darkorange</span>`
 
-<span style="background-color: DarkOrchid;">DarkOrchid</span> 
+![darkorchid](color_images/darkorchid.png)
+`<span style="background-color: darkorchid; color: #FFFFFF;">darkorchid</span>`
 
-<span style="background-color: DarkRed;">DarkRed</span> 
+![darkred](color_images/darkred.png)
+`<span style="background-color: darkred; color: #FFFFFF;">darkred</span>`
 
-<span style="background-color: DarkSalmon;">DarkSalmon</span> 
+![darksalmon](color_images/darksalmon.png)
+`<span style="background-color: darksalmon; color: #000000;">darksalmon</span>`
 
-<span style="background-color: DarkSeaGreen;" class="light">DarkSeaGreen</span> 
+![darkseagreen](color_images/darkseagreen.png)
+`<span style="background-color: darkseagreen; color: #000000;">darkseagreen</span>`
 
-<span style="background-color: DarkSlateBlue;">DarkSlateBlue</span> 
+![darkslateblue](color_images/darkslateblue.png)
+`<span style="background-color: darkslateblue; color: #FFFFFF;">darkslateblue</span>`
 
-<span style="background-color: DarkSlateGray;">DarkSlateGray</span> 
+![darkslategray](color_images/darkslategray.png)
+`<span style="background-color: darkslategray; color: #FFFFFF;">darkslategray</span>`
 
-<span style="background-color: DarkTurquoise;">DarkTurquoise</span> 
+![darkslategrey](color_images/darkslategrey.png)
+`<span style="background-color: darkslategrey; color: #FFFFFF;">darkslategrey</span>`
 
-<span style="background-color: DarkViolet;">DarkViolet</span> 
+![darkturquoise](color_images/darkturquoise.png)
+`<span style="background-color: darkturquoise; color: #000000;">darkturquoise</span>`
 
-<span style="background-color: DeepPink;">DeepPink</span> 
+![darkviolet](color_images/darkviolet.png)
+`<span style="background-color: darkviolet; color: #FFFFFF;">darkviolet</span>`
 
-<span style="background-color: DeepSkyBlue;">DeepSkyBlue</span> 
+![deeppink](color_images/deeppink.png)
+`<span style="background-color: deeppink; color: #FFFFFF;">deeppink</span>`
 
-<span style="background-color: DimGray;">DimGray</span> 
+![deepskyblue](color_images/deepskyblue.png)
+`<span style="background-color: deepskyblue; color: #000000;">deepskyblue</span>`
 
-<span style="background-color: DodgerBlue;color:black">DodgerBlue</span> 
+![dimgray](color_images/dimgray.png)
+`<span style="background-color: dimgray; color: #FFFFFF;">dimgray</span>`
 
-<span style="background-color: FireBrick;">FireBrick</span> 
+![dimgrey](color_images/dimgrey.png)
+`<span style="background-color: dimgrey; color: #FFFFFF;">dimgrey</span>`
 
-<span style="background-color: FloralWhite;color:black" class="light">FloralWhite</span> 
+![dodgerblue](color_images/dodgerblue.png)
+`<span style="background-color: dodgerblue; color: #FFFFFF;">dodgerblue</span>`
 
-<span style="background-color: ForestGreen;">ForestGreen</span> 
+![firebrick](color_images/firebrick.png)
+`<span style="background-color: firebrick; color: #FFFFFF;">firebrick</span>`
 
-<span style="background-color: Fuchsia;">Fuchsia</span> 
+![floralwhite](color_images/floralwhite.png)
+`<span style="background-color: floralwhite; color: #000000;">floralwhite</span>`
 
-<span style="background-color: Gainsboro;color:black">Gainsboro</span> 
+![forestgreen](color_images/forestgreen.png)
+`<span style="background-color: forestgreen; color: #FFFFFF;">forestgreen</span>`
 
-<span style="background-color: GhostWhite;color:black" class="light">GhostWhite</span> 
+![fuchsia](color_images/fuchsia.png)
+`<span style="background-color: fuchsia; color: #FFFFFF;">fuchsia</span>`
 
-<span style="background-color: Gold;">Gold</span> 
+![gainsboro](color_images/gainsboro.png)
+`<span style="background-color: gainsboro; color: #000000;">gainsboro</span>`
 
-<span style="background-color: GoldenRod;">GoldenRod</span> 
+![ghostwhite](color_images/ghostwhite.png)
+`<span style="background-color: ghostwhite; color: #000000;">ghostwhite</span>`
 
-<span style="background-color: Gray;">Gray</span> 
+![gold](color_images/gold.png)
+`<span style="background-color: gold; color: #000000;">gold</span>`
 
-<span style="background-color: Green;">Green</span> 
+![goldenrod](color_images/goldenrod.png)
+`<span style="background-color: goldenrod; color: #000000;">goldenrod</span>`
 
-<span style="background-color: GreenYellow;color:black" class="light">GreenYellow</span> 
+![gray](color_images/gray.png)
+`<span style="background-color: gray; color: #FFFFFF;">gray</span>`
 
-<span style="background-color: HoneyDew;color:black" class="light">HoneyDew</span> 
+![green](color_images/green.png)
+`<span style="background-color: green; color: #FFFFFF;">green</span>`
 
-<span style="background-color: HotPink;">HotPink</span> 
+![greenyellow](color_images/greenyellow.png)
+`<span style="background-color: greenyellow; color: #000000;">greenyellow</span>`
 
-<span style="background-color: IndianRed;">IndianRed</span> 
+![grey](color_images/grey.png)
+`<span style="background-color: grey; color: #FFFFFF;">grey</span>`
 
-<span style="background-color: Indigo;">Indigo</span> 
+![honeydew](color_images/honeydew.png)
+`<span style="background-color: honeydew; color: #000000;">honeydew</span>`
 
-<span style="background-color: Ivory;color:black" class="light">Ivory</span> 
+![hotpink](color_images/hotpink.png)
+`<span style="background-color: hotpink; color: #000000;">hotpink</span>`
 
-<span style="background-color: Khaki;color:black">Khaki</span> 
+![indianred](color_images/indianred.png)
+`<span style="background-color: indianred; color: #FFFFFF;">indianred</span>`
 
-<span style="background-color: Lavender;color:black" class="light">Lavender</span> 
+![indigo](color_images/indigo.png)
+`<span style="background-color: indigo; color: #FFFFFF;">indigo</span>`
 
-<span style="background-color: LavenderBlush;color:black" class="light">LavenderBlush</span> 
+![ivory](color_images/ivory.png)
+`<span style="background-color: ivory; color: #000000;">ivory</span>`
 
-<span style="background-color: LawnGreen;color:black">LawnGreen</span> 
+![khaki](color_images/khaki.png)
+`<span style="background-color: khaki; color: #000000;">khaki</span>`
 
-<span style="background-color: LemonChiffon;color:black" class="light">LemonChiffon</span> 
+![lavender](color_images/lavender.png)
+`<span style="background-color: lavender; color: #000000;">lavender</span>`
 
-<span style="background-color: LightBlue;color:black" class="light">LightBlue</span> 
+![lavenderblush](color_images/lavenderblush.png)
+`<span style="background-color: lavenderblush; color: #000000;">lavenderblush</span>`
 
-<span style="background-color: LightCoral;">LightCoral</span> 
+![lawngreen](color_images/lawngreen.png)
+`<span style="background-color: lawngreen; color: #000000;">lawngreen</span>`
 
-<span style="background-color: LightCyan;color:black" class="light">LightCyan</span> 
+![lemonchiffon](color_images/lemonchiffon.png)
+`<span style="background-color: lemonchiffon; color: #000000;">lemonchiffon</span>`
 
-<span style="background-color: LightGoldenRodYellow;color:black" class="light">LightGoldenRodYellow</span> 
+![lightblue](color_images/lightblue.png)
+`<span style="background-color: lightblue; color: #000000;">lightblue</span>`
 
-<span style="background-color: LightGray;color:black">LightGray</span> 
+![lightcoral](color_images/lightcoral.png)
+`<span style="background-color: lightcoral; color: #000000;">lightcoral</span>`
 
-<span style="background-color: LightGreen;color:black" class="light">LightGreen</span> 
+![lightcyan](color_images/lightcyan.png)
+`<span style="background-color: lightcyan; color: #000000;">lightcyan</span>`
 
-<span style="background-color: LightPink;">LightPink</span> 
+![lightgoldenrodyellow](color_images/lightgoldenrodyellow.png)
+`<span style="background-color: lightgoldenrodyellow; color: #000000;">lightgoldenrodyellow</span>`
 
-<span style="background-color: LightSalmon;">LightSalmon</span> 
+![lightgray](color_images/lightgray.png)
+`<span style="background-color: lightgray; color: #000000;">lightgray</span>`
 
-<span style="background-color: LightSeaGreen;">LightSeaGreen</span> 
+![lightgreen](color_images/lightgreen.png)
+`<span style="background-color: lightgreen; color: #000000;">lightgreen</span>`
 
-<span style="background-color: LightSkyBlue;color:black">LightSkyBlue</span> 
+![lightgrey](color_images/lightgrey.png)
+`<span style="background-color: lightgrey; color: #000000;">lightgrey</span>`
 
-<span style="background-color: LightSlateGray;">LightSlateGray</span> 
+![lightpink](color_images/lightpink.png)
+`<span style="background-color: lightpink; color: #000000;">lightpink</span>`
 
-<span style="background-color: LightSteelBlue;color:black">LightSteelBlue</span> 
+![lightsalmon](color_images/lightsalmon.png)
+`<span style="background-color: lightsalmon; color: #000000;">lightsalmon</span>`
 
-<span style="background-color: LightYellow;color:black" class="light">LightYellow</span> 
+![lightseagreen](color_images/lightseagreen.png)
+`<span style="background-color: lightseagreen; color: #000000;">lightseagreen</span>`
 
-<span style="background-color: Lime;color:black">Lime</span> 
+![lightskyblue](color_images/lightskyblue.png)
+`<span style="background-color: lightskyblue; color: #000000;">lightskyblue</span>`
 
-<span style="background-color: LimeGreen;">LimeGreen</span> 
+![lightslategray](color_images/lightslategray.png)
+`<span style="background-color: lightslategray; color: #000000;">lightslategray</span>`
 
-<span style="background-color: Linen;color:black" class="light">Linen</span>
+![lightslategrey](color_images/lightslategrey.png)
+`<span style="background-color: lightslategrey; color: #000000;">lightslategrey</span>`
 
-<span style="background-color: Magenta;">Magenta</span> 
+![lightsteelblue](color_images/lightsteelblue.png)
+`<span style="background-color: lightsteelblue; color: #000000;">lightsteelblue</span>`
 
-<span style="background-color: Maroon;">Maroon</span> 
+![lightyellow](color_images/lightyellow.png)
+`<span style="background-color: lightyellow; color: #000000;">lightyellow</span>`
 
-<span style="background-color: MediumAquaMarine;">MediumAquaMarine</span> 
+![lime](color_images/lime.png)
+`<span style="background-color: lime; color: #000000;">lime</span>`
 
-<span style="background-color: MediumBlue;">MediumBlue</span> 
+![limegreen](color_images/limegreen.png)
+`<span style="background-color: limegreen; color: #000000;">limegreen</span>`
 
-<span style="background-color: MediumOrchid;">MediumOrchid</span> 
+![linen](color_images/linen.png)
+`<span style="background-color: linen; color: #000000;">linen</span>`
 
-<span style="background-color: MediumPurple;">MediumPurple</span> 
+![magenta](color_images/magenta.png)
+`<span style="background-color: magenta; color: #FFFFFF;">magenta</span>`
 
-<span style="background-color: MediumSeaGreen;">MediumSeaGreen</span> 
+![maroon](color_images/maroon.png)
+`<span style="background-color: maroon; color: #FFFFFF;">maroon</span>`
 
-<span style="background-color: MediumSlateBlue;color:black">MediumSlateBlue</span> 
+![mediumaquamarine](color_images/mediumaquamarine.png)
+`<span style="background-color: mediumaquamarine; color: #000000;">mediumaquamarine</span>`
 
-<span style="background-color: MediumSpringGreen;color:black">MediumSpringGreen</span> 
+![mediumblue](color_images/mediumblue.png)
+`<span style="background-color: mediumblue; color: #FFFFFF;">mediumblue</span>`
 
-<span style="background-color: MediumTurquoise;">MediumTurquoise</span> 
+![mediumorchid](color_images/mediumorchid.png)
+`<span style="background-color: mediumorchid; color: #000000;">mediumorchid</span>`
 
-<span style="background-color: MediumVioletRed;">MediumVioletRed</span> 
+![mediumpurple](color_images/mediumpurple.png)
+`<span style="background-color: mediumpurple; color: #000000;">mediumpurple</span>`
 
-<span style="background-color: MidnightBlue;">MidnightBlue</span> 
+![mediumseagreen](color_images/mediumseagreen.png)
+`<span style="background-color: mediumseagreen; color: #000000;">mediumseagreen</span>`
 
-<span style="background-color: MintCream;color:black" class="light">MintCream</span> 
+![mediumslateblue](color_images/mediumslateblue.png)
+`<span style="background-color: mediumslateblue; color: #FFFFFF;">mediumslateblue</span>`
 
-<span style="background-color: MistyRose;color:black">MistyRose</span> 
+![mediumspringgreen](color_images/mediumspringgreen.png)
+`<span style="background-color: mediumspringgreen; color: #000000;">mediumspringgreen</span>`
 
-<span style="background-color: Moccasin;color:black">Moccasin</span> 
+![mediumturquoise](color_images/mediumturquoise.png)
+`<span style="background-color: mediumturquoise; color: #000000;">mediumturquoise</span>`
 
-<span style="background-color: NavajoWhite;color:black">NavajoWhite</span> 
+![mediumvioletred](color_images/mediumvioletred.png)
+`<span style="background-color: mediumvioletred; color: #FFFFFF;">mediumvioletred</span>`
 
-<span style="background-color: Navy;">Navy</span> 
+![midnightblue](color_images/midnightblue.png)
+`<span style="background-color: midnightblue; color: #FFFFFF;">midnightblue</span>`
 
-<span style="background-color: OldLace;color:black" class="light">OldLace</span> 
+![mintcream](color_images/mintcream.png)
+`<span style="background-color: mintcream; color: #000000;">mintcream</span>`
 
-<span style="background-color: Olive;">Olive</span> 
+![mistyrose](color_images/mistyrose.png)
+`<span style="background-color: mistyrose; color: #000000;">mistyrose</span>`
 
-<span style="background-color: OliveDrab;">OliveDrab</span> 
+![moccasin](color_images/moccasin.png)
+`<span style="background-color: moccasin; color: #000000;">moccasin</span>`
 
-<span style="background-color: Orange;">Orange</span> 
+![navajowhite](color_images/navajowhite.png)
+`<span style="background-color: navajowhite; color: #000000;">navajowhite</span>`
 
-<span style="background-color: OrangeRed;">OrangeRed</span> 
+![navy](color_images/navy.png)
+`<span style="background-color: navy; color: #FFFFFF;">navy</span>`
 
-<span style="background-color: Orchid;">Orchid</span> 
+![oldlace](color_images/oldlace.png)
+`<span style="background-color: oldlace; color: #000000;">oldlace</span>`
 
-<span style="background-color: PaleGoldenRod;color:black">PaleGoldenRod</span> 
+![olive](color_images/olive.png)
+`<span style="background-color: olive; color: #FFFFFF;">olive</span>`
 
-<span style="background-color: PaleGreen;color:black" class="light">PaleGreen</span> 
+![olivedrab](color_images/olivedrab.png)
+`<span style="background-color: olivedrab; color: #FFFFFF;">olivedrab</span>`
 
-<span style="background-color: PaleTurquoise;color:black" class="light">PaleTurquoise</span> 
+![orange](color_images/orange.png)
+`<span style="background-color: orange; color: #000000;">orange</span>`
 
-<span style="background-color: PaleVioletRed;">PaleVioletRed</span> 
+![orangered](color_images/orangered.png)
+`<span style="background-color: orangered; color: #FFFFFF;">orangered</span>`
 
-<span style="background-color: PapayaWhip;color:black" class="light">PapayaWhip</span> 
+![orchid](color_images/orchid.png)
+`<span style="background-color: orchid; color: #000000;">orchid</span>`
 
-<span style="background-color: PeachPuff;color:black">PeachPuff</span> 
+![palegoldenrod](color_images/palegoldenrod.png)
+`<span style="background-color: palegoldenrod; color: #000000;">palegoldenrod</span>`
 
-<span style="background-color: Peru;">Peru</span> 
+![palegreen](color_images/palegreen.png)
+`<span style="background-color: palegreen; color: #000000;">palegreen</span>`
 
-<span style="background-color: Pink;">Pink</span> 
+![paleturquoise](color_images/paleturquoise.png)
+`<span style="background-color: paleturquoise; color: #000000;">paleturquoise</span>`
 
-<span style="background-color: Plum;">Plum</span> 
+![palevioletred](color_images/palevioletred.png)
+`<span style="background-color: palevioletred; color: #000000;">palevioletred</span>`
 
-<span style="background-color: PowderBlue;color:black" class="light">PowderBlue</span> 
+![papayawhip](color_images/papayawhip.png)
+`<span style="background-color: papayawhip; color: #000000;">papayawhip</span>`
 
-<span style="background-color: Purple;">Purple</span> 
+![peachpuff](color_images/peachpuff.png)
+`<span style="background-color: peachpuff; color: #000000;">peachpuff</span>`
 
-<span style="background-color: Red;">Red</span> 
+![peru](color_images/peru.png)
+`<span style="background-color: peru; color: #000000;">peru</span>`
 
-<span style="background-color: RosyBrown;">RosyBrown</span> 
+![pink](color_images/pink.png)
+`<span style="background-color: pink; color: #000000;">pink</span>`
 
-<span style="background-color: RoyalBlue;">RoyalBlue</span> 
+![plum](color_images/plum.png)
+`<span style="background-color: plum; color: #000000;">plum</span>`
 
-<span style="background-color: SaddleBrown;">SaddleBrown</span> 
+![powderblue](color_images/powderblue.png)
+`<span style="background-color: powderblue; color: #000000;">powderblue</span>`
 
-<span style="background-color: Salmon;">Salmon</span> 
+![purple](color_images/purple.png)
+`<span style="background-color: purple; color: #FFFFFF;">purple</span>`
 
-<span style="background-color: SandyBrown;">SandyBrown</span> 
+![rebeccapurple](color_images/rebeccapurple.png)
+`<span style="background-color: rebeccapurple; color: #FFFFFF;">rebeccapurple</span>`
 
-<span style="background-color: SeaGreen;">SeaGreen</span> 
+![red](color_images/red.png)
+`<span style="background-color: red; color: #FFFFFF;">red</span>`
 
-<span style="background-color: SeaShell;color:black" class="light">SeaShell</span> 
+![rosybrown](color_images/rosybrown.png)
+`<span style="background-color: rosybrown; color: #000000;">rosybrown</span>`
 
-<span style="background-color: Sienna;">Sienna</span> 
+![royalblue](color_images/royalblue.png)
+`<span style="background-color: royalblue; color: #FFFFFF;">royalblue</span>`
 
-<span style="background-color: Silver;">Silver</span> 
+![saddlebrown](color_images/saddlebrown.png)
+`<span style="background-color: saddlebrown; color: #FFFFFF;">saddlebrown</span>`
 
-<span style="background-color: SkyBlue;">SkyBlue</span> 
+![salmon](color_images/salmon.png)
+`<span style="background-color: salmon; color: #000000;">salmon</span>`
 
-<span style="background-color: SlateBlue;">SlateBlue</span> 
+![sandybrown](color_images/sandybrown.png)
+`<span style="background-color: sandybrown; color: #000000;">sandybrown</span>`
 
-<span style="background-color: SlateGray;">SlateGray</span> 
+![seagreen](color_images/seagreen.png)
+`<span style="background-color: seagreen; color: #FFFFFF;">seagreen</span>`
 
-<span style="background-color: Snow;color:black" class="light">Snow</span> 
+![seashell](color_images/seashell.png)
+`<span style="background-color: seashell; color: #000000;">seashell</span>`
 
-<span style="background-color: SpringGreen;color:black">SpringGreen</span> 
+![sienna](color_images/sienna.png)
+`<span style="background-color: sienna; color: #FFFFFF;">sienna</span>`
 
-<span style="background-color: SteelBlue;">SteelBlue</span> 
+![silver](color_images/silver.png)
+`<span style="background-color: silver; color: #000000;">silver</span>`
 
-<span style="background-color: Tan;">Tan</span> 
+![skyblue](color_images/skyblue.png)
+`<span style="background-color: skyblue; color: #000000;">skyblue</span>`
 
-<span style="background-color: Teal;">Teal</span> 
+![slateblue](color_images/slateblue.png)
+`<span style="background-color: slateblue; color: #FFFFFF;">slateblue</span>`
 
-<span style="background-color: Thistle;color:black" class="light">Thistle</span> 
+![slategray](color_images/slategray.png)
+`<span style="background-color: slategray; color: #FFFFFF;">slategray</span>`
 
-<span style="background-color: Tomato;">Tomato</span> 
+![slategrey](color_images/slategrey.png)
+`<span style="background-color: slategrey; color: #FFFFFF;">slategrey</span>`
 
-<span style="background-color: Turquoise;color:black">Turquoise</span> 
+![snow](color_images/snow.png)
+`<span style="background-color: snow; color: #000000;">snow</span>`
 
-<span style="background-color: Violet;">Violet</span> 
+![springgreen](color_images/springgreen.png)
+`<span style="background-color: springgreen; color: #000000;">springgreen</span>`
 
-<span style="background-color: Wheat;color:black">Wheat</span> 
+![steelblue](color_images/steelblue.png)
+`<span style="background-color: steelblue; color: #FFFFFF;">steelblue</span>`
 
-<span style="background-color: White;color:black" class="light">White</span> 
+![tan](color_images/tan.png)
+`<span style="background-color: tan; color: #000000;">tan</span>`
 
-<span style="background-color: WhiteSmoke;color:black" class="light">WhiteSmoke</span> 
+![teal](color_images/teal.png)
+`<span style="background-color: teal; color: #FFFFFF;">teal</span>`
 
-<span style="background-color: Yellow;color:black">Yellow</span> 
+![thistle](color_images/thistle.png)
+`<span style="background-color: thistle; color: #000000;">thistle</span>`
 
-<span style="background-color: YellowGreen;color:black">YellowGreen</span>
+![tomato](color_images/tomato.png)
+`<span style="background-color: tomato; color: #000000;">tomato</span>`
+
+![turquoise](color_images/turquoise.png)
+`<span style="background-color: turquoise; color: #000000;">turquoise</span>`
+
+![violet](color_images/violet.png)
+`<span style="background-color: violet; color: #000000;">violet</span>`
+
+![wheat](color_images/wheat.png)
+`<span style="background-color: wheat; color: #000000;">wheat</span>`
+
+![white](color_images/white.png)
+`<span style="background-color: white; color: #000000;">white</span>`
+
+![whitesmoke](color_images/whitesmoke.png)
+`<span style="background-color: whitesmoke; color: #000000;">whitesmoke</span>`
+
+![yellow](color_images/yellow.png)
+`<span style="background-color: yellow; color: #000000;">yellow</span>`
+
+![yellowgreen](color_images/yellowgreen.png)
+`<span style="background-color: yellowgreen; color: #000000;">yellowgreen</span>`
